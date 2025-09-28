@@ -1,26 +1,11 @@
-<div align="center">
-  <h1>FileZipper</h1>
-  <p>
-    <strong>Efficient file compression and decompression using Huffman Coding in Python</strong>
-  </p>
-  <p>
-    <a href="https://pypi.org/project/filezipper/">
-      <img src="https://img.shields.io/pypi/v/filezipper?style=flat-square" alt="PyPI">
-    </a>
-    <a href="https://www.python.org/downloads/">
-      <img src="https://img.shields.io/pypi/pyversions/filezipper?style=flat-square" alt="Python Versions">
-    </a>
-    <a href="https://github.com/pranav271103/FileZipper/actions/workflows/tests.yml">
-      <img src="https://img.shields.io/github/actions/workflow/status/pranav271103/FileZipper/tests.yml?branch=main&label=tests&style=flat-square" alt="Tests Status">
-    </a>
-    <a href="https://github.com/psf/black">
-      <img src="https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square" alt="Code Style: Black">
-    </a>
-    <a href="https://opensource.org/licenses/MIT">
-      <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
-    </a>
-  </p>
-</div>
+# FileZipper
+
+**Efficient file compression and decompression using Huffman Coding in Python**
+
+[![Python Versions](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9%20|%203.10%20|%203.11-blue?style=flat-square)](https://www.python.org/downloads/)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 
 ## Features
 
@@ -112,7 +97,7 @@ FileZipper is optimized for both speed and compression ratio:
 | Text (XML)     | 2.8:1             | 14.5         |
 | Binary         | 1.2:1             | 18.3         |
 
-*Benchmarks performed on Intel i7-11800H @ 2.30GHz with 16GB RAM*
+*Benchmarks performed on Intel i5-8265U @ 1.60GHz with 8GB RAM*
 
 ## Testing
 
