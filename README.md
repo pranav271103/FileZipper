@@ -19,6 +19,16 @@
 
 ## Installation
 
+### Using Docker (Recommended)
+
+```bash
+# Pull the latest image from GitHub Container Registry
+docker pull ghcr.io/pranav271103/filezipper:latest
+
+# Run the container
+docker run -v $(pwd):/data ghcr.io/pranav271103/filezipper [command] [options]
+```
+
 ### From Source
 
 ```bash
@@ -31,6 +41,18 @@ pip install -e .
 ```
 
 ## Command Line Usage
+
+### Using Docker
+
+```bash
+# Compress a file
+docker run -v $(pwd):/data ghcr.io/pranav271103/filezipper compress /data/input.txt -o /data/compressed.huff
+
+# Decompress a file
+docker run -v $(pwd):/data ghcr.io/pranav271103/filezipper decompress /data/compressed.huff -o /data/output.txt
+```
+
+### Local Installation
 
 ### Compress a File
 
