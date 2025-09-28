@@ -5,7 +5,7 @@
 [![Python Versions](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9%20|%203.10%20|%203.11-blue?style=flat-square)](https://www.python.org/downloads/)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/pranav271103/filezipper?sort=semver&style=flat-square&logo=docker)](https://github.com/pranav271103/FileZipper/pkgs/container/filezipper)
+[![Docker Image Version](https://img.shields.io/github/v/release/pranav271103/FileZipper?label=ghcr.io%2Fpranav271103%2Ffilezipper&logo=docker&sort=semver&style=flat-square)](https://github.com/pranav271103/FileZipper/pkgs/container/filezipper)
 
 
 ## Features
