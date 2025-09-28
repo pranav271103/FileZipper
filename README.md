@@ -1,4 +1,8 @@
-# FileZipper
+<div align="center">
+  <img src="assets/icon-removebg-preview.png" alt="FileZipper Logo" width="200"/>
+  
+  # FileZipper
+</div>
 
 **Efficient file compression and decompression using Huffman Coding in Python**
 
